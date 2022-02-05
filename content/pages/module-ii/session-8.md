@@ -11,7 +11,26 @@ uid: 17c27441-e358-70d8-0e8a-f92b5b927035
 Lecture Topics
 --------------
 
-| ![Session_8.jpg]({{< resource_file bf514f96-01bb-fba4-a8c3-6119cf1e0659 >}}) |  {{< br >}}{{< br >}} *   Glucose Chemistry{{< br >}}*   Carbohydrate Catabolism{{< br >}}*   Use of Gucose as a Metabolic Fuel{{< br >}}*   Introduction to Metabolism and Methods of Analysis{{< br >}}*   Overview of the Glycolysis Pathway {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_8.jpg]({{< resource_file bf514f96-01bb-fba4-a8c3-6119cf1e0659 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Glucose Chemistry
+*   Carbohydrate Catabolism
+*   Use of Gucose as a Metabolic Fuel
+*   Introduction to Metabolism and Methods of Analysis
+*   Overview of the Glycolysis Pathway
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

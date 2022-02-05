@@ -11,7 +11,25 @@ uid: 715af689-4051-bbb6-c4e8-3ea908ce930b
 Lecture Topics
 --------------
 
-| ![Session_6.jpg]({{< resource_file cacf01d8-7e38-d625-cfbe-722e1a2ea32e >}}) |  {{< br >}}{{< br >}} *   Redox Chemistry{{< br >}}*   Organic Cofactors NAD and FAD{{< br >}}*   Inorganic Redox-based Cofactors{{< br >}}*   Spontaneity with Redox Reactions {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_6.jpg]({{< resource_file cacf01d8-7e38-d625-cfbe-722e1a2ea32e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Redox Chemistry
+*   Organic Cofactors NAD and FAD
+*   Inorganic Redox-based Cofactors
+*   Spontaneity with Redox Reactions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

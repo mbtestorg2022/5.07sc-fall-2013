@@ -11,7 +11,25 @@ uid: 57cb5406-f873-5689-623d-f08bb1077277
 Lecture Topics
 --------------
 
-| ![Session_5.jpg]({{< resource_file 0555375c-b104-92d3-fc44-653282cbb5b0 >}}) |  {{< br >}}{{< br >}} *   Review of Carbonyl Chemistry{{< br >}}*   Aldol Reaction{{< br >}}*   Claisen Reaction{{< br >}}*   Prenyl Transfer Reaction {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_5.jpg]({{< resource_file 0555375c-b104-92d3-fc44-653282cbb5b0 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review of Carbonyl Chemistry
+*   Aldol Reaction
+*   Claisen Reaction
+*   Prenyl Transfer Reaction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

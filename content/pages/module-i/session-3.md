@@ -11,7 +11,25 @@ uid: 27144c40-64d0-090f-a5fa-7413272ece82
 Lecture Topics
 --------------
 
-| ![Session_3.jpg]({{< resource_file 1e65e9f2-b06b-bae7-2dbe-d06980bfec88 >}}) |  {{< br >}}{{< br >}} *   Definition of a Catalyst{{< br >}}*   Conceptualization of Catalysis using Transition State Theory{{< br >}}*   How has Nature Evolved Enzymes to Lower the Activation Barrier?{{< br >}}*   The Second Important Property of Enzymes is their Specificity {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_3.jpg]({{< resource_file 1e65e9f2-b06b-bae7-2dbe-d06980bfec88 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Definition of a Catalyst
+*   Conceptualization of Catalysis using Transition State Theory
+*   How has Nature Evolved Enzymes to Lower the Activation Barrier?
+*   The Second Important Property of Enzymes is their Specificity
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

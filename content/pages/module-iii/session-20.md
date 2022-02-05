@@ -11,7 +11,24 @@ uid: 0be246d3-8f26-0940-e277-8af19f6d9853
 Lecture Topics
 --------------
 
-| ![Session_22.jpg]({{< resource_file 830589fc-cff0-9c4f-988c-c5b67583fe0b >}}) |  {{< br >}}{{< br >}} *   Pentose Phosphate Pathway (PPP){{< br >}}*   PPP Modes: Oxidative and Non-oxidative{{< br >}}*   PPP Details {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_22.jpg]({{< resource_file 830589fc-cff0-9c4f-988c-c5b67583fe0b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Pentose Phosphate Pathway (PPP)
+*   PPP Modes: Oxidative and Non-oxidative
+*   PPP Details
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

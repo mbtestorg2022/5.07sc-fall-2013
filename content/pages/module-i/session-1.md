@@ -11,7 +11,24 @@ uid: 1fc4da87-9128-0568-ac58-25fccb720421
 Lecture Topics
 --------------
 
-| ![]({{< resource_file 284732e4-faa0-e330-2774-31a8ff1536fb >}}) |  {{< br >}}{{< br >}} *   What is Life?{{< br >}}*   Cellular Components: Water and Amino Acids{{< br >}}*   The Importance of Chirality {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 284732e4-faa0-e330-2774-31a8ff1536fb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   What is Life?
+*   Cellular Components: Water and Amino Acids
+*   The Importance of Chirality
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

@@ -11,7 +11,23 @@ uid: 17d352db-6c96-2121-bee6-41563cc9a8b1
 Lecture Topics
 --------------
 
-| ![Session_14.jpg]({{< resource_file 363f3cf1-7eae-c156-922d-a488c95f1b58 >}}) |  {{< br >}}{{< br >}} *   Lipids Make Up Biological Membranes and are Energy Storehouses{{< br >}}*   Metabolized to Acetyl CoA by Beta-Oxidation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_14.jpg]({{< resource_file 363f3cf1-7eae-c156-922d-a488c95f1b58 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Lipids Make Up Biological Membranes and are Energy Storehouses
+*   Metabolized to Acetyl CoA by Beta-Oxidation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

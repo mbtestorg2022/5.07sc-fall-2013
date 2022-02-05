@@ -11,7 +11,25 @@ uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
 Lecture Topics
 --------------
 
-| ![Session_21.jpg]({{< resource_file 808fee1e-4f21-b401-9a0f-8b820089daea >}}) |  {{< br >}}{{< br >}} *   Gluconeogenic (GNG) Precursors{{< br >}}*   GNG Pathway Overview{{< br >}}*   Mechanisms of GNG Enzymes{{< br >}}*   GNG Pathway Details {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_21.jpg]({{< resource_file 808fee1e-4f21-b401-9a0f-8b820089daea >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Gluconeogenic (GNG) Precursors
+*   GNG Pathway Overview
+*   Mechanisms of GNG Enzymes
+*   GNG Pathway Details
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

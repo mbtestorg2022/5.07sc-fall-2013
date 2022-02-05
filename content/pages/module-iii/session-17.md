@@ -11,7 +11,26 @@ uid: 78993cdf-e45b-61dc-38c2-741201d0a3ec
 Lecture Topics
 --------------
 
-| ![Session_19.jpg]({{< resource_file 22f663b9-b3fb-e77e-e778-7e1dc6592daa >}}) |  {{< br >}}{{< br >}} *   Fatty Acid (FA) and Lipid Biosynthesis{{< br >}}*   Stages of Fatty Acid Biosynthesis{{< br >}}*   Fatty Acid Synthase (FAS) Reactions{{< br >}}*   Introducing NADPH (nicotinamide adenine dinucleotide phosphate){{< br >}}*   Converting FA to Phospholipid and TAG (triacylgycerol) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_19.jpg]({{< resource_file 22f663b9-b3fb-e77e-e778-7e1dc6592daa >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Fatty Acid (FA) and Lipid Biosynthesis
+*   Stages of Fatty Acid Biosynthesis
+*   Fatty Acid Synthase (FAS) Reactions
+*   Introducing NADPH (nicotinamide adenine dinucleotide phosphate)
+*   Converting FA to Phospholipid and TAG (triacylgycerol)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

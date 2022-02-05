@@ -11,7 +11,27 @@ uid: eeb03753-dead-a602-6b7f-4d5632a15d48
 Lecture Topics
 --------------
 
-| ![Session_9.jpg]({{< resource_file 1f542ce1-4633-ce48-fd6c-f9d65eb0b42d >}}) |  {{< br >}}{{< br >}} *   Detailed Glycolytic Pathway{{< br >}}*   Homolactic Fermentation{{< br >}}*   Alcoholic Fermentation{{< br >}}*   High-level View of the Interface of Glycolysis and Respiration{{< br >}}*   Pyruvate Dehydrogenase and the Decarboxylase Reactions{{< br >}}*   Acetyl CoA Production {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_9.jpg]({{< resource_file 1f542ce1-4633-ce48-fd6c-f9d65eb0b42d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Detailed Glycolytic Pathway
+*   Homolactic Fermentation
+*   Alcoholic Fermentation
+*   High-level View of the Interface of Glycolysis and Respiration
+*   Pyruvate Dehydrogenase and the Decarboxylase Reactions
+*   Acetyl CoA Production
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

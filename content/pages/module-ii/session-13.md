@@ -11,7 +11,24 @@ uid: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832
 Lecture Topics
 --------------
 
-| ![Session_14.jpg]({{< resource_file fe88602f-0966-d010-6b6c-f6462fb7cc6b >}}) |  {{< br >}}{{< br >}} *   ATP Synthesis will be Driven by a Proton Gradient{{< br >}}*   Coenzyme Q works as a Chemical Component of an Elaborate Electron/Proton Directed Rotary Engine{{< br >}}*   Summary of the Stages of Respiration {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_14.jpg]({{< resource_file fe88602f-0966-d010-6b6c-f6462fb7cc6b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   ATP Synthesis will be Driven by a Proton Gradient
+*   Coenzyme Q works as a Chemical Component of an Elaborate Electron/Proton Directed Rotary Engine
+*   Summary of the Stages of Respiration
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

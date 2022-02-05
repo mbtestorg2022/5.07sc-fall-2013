@@ -11,7 +11,24 @@ uid: 70b2da5f-1582-4ec1-7560-6e34a1ecc82f
 Lecture Topics
 --------------
 
-| ![Session_15.jpg]({{< resource_file 36ad8d02-56e1-c3cb-9a6e-3c1f4b644e1a >}}) |  {{< br >}}{{< br >}} *   Specialized Pathways of Fatty Acid Oxidation{{< br >}}*   Isomerases Reposition Double Bonds{{< br >}}*   Carboxylases Add Carbons {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_15.jpg]({{< resource_file 36ad8d02-56e1-c3cb-9a6e-3c1f4b644e1a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Specialized Pathways of Fatty Acid Oxidation
+*   Isomerases Reposition Double Bonds
+*   Carboxylases Add Carbons
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

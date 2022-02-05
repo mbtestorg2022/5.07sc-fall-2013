@@ -11,7 +11,24 @@ uid: 58843ff6-eea1-ac3d-1eb2-2129d17d7148
 Lecture Topics
 --------------
 
-| ![Session_12.jpg]({{< resource_file b74fa813-5eac-0a96-b895-84290bbb69de >}}) |  {{< br >}}{{< br >}} *   Lactate Dehydrogenase{{< br >}}*   Glycerol-3-Phosphate Shuttle{{< br >}}*   Malate-Aspartate Shuttle {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_12.jpg]({{< resource_file b74fa813-5eac-0a96-b895-84290bbb69de >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Lactate Dehydrogenase
+*   Glycerol-3-Phosphate Shuttle
+*   Malate-Aspartate Shuttle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

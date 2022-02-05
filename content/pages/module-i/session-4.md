@@ -11,7 +11,23 @@ uid: 1ce10481-e08c-8afe-1143-3ec9c84f3a3b
 Lecture Topics
 --------------
 
-| ![Session_4.jpg]({{< resource_file eff87d44-00a0-1974-918c-db3fe3d7fd93 >}}) |  {{< br >}}{{< br >}} *   Enzymatic Reactions and Chemically Catalyzed Reactions vs. Uncatalyzed Chemical Reactions{{< br >}}*   Inhibitors of Enzyme Reactions {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_4.jpg]({{< resource_file eff87d44-00a0-1974-918c-db3fe3d7fd93 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Enzymatic Reactions and Chemically Catalyzed Reactions vs. Uncatalyzed Chemical Reactions
+*   Inhibitors of Enzyme Reactions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

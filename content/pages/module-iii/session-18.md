@@ -11,7 +11,23 @@ uid: 75fe79d4-5450-b071-d5b0-f03061b94b38
 Lecture Topics
 --------------
 
-| ![Session_18_new.jpg]({{< resource_file 3f7e4880-804c-db97-0ae3-d7ae3447806f >}}) |  {{< br >}}{{< br >}} *   Glycogen Structure{{< br >}}*   Glycogen Synthesis {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_18_new.jpg]({{< resource_file 3f7e4880-804c-db97-0ae3-d7ae3447806f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Glycogen Structure
+*   Glycogen Synthesis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

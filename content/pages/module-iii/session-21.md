@@ -11,7 +11,24 @@ uid: cb7b5577-39a4-3a08-9c64-90a6df6bee82
 Lecture Topics
 --------------
 
-| ![Session_23.jpg]({{< resource_file 644a0ade-2aca-1f95-53ce-21beba588640 >}}) |  {{< br >}}{{< br >}} *   Pathways and Sites of Regulation{{< br >}}*   Key Organ Systems and Hormones{{< br >}}*   General Paradigms of Pathway Control: Covalent, Allosteric, and Acceptor Control {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_23.jpg]({{< resource_file 644a0ade-2aca-1f95-53ce-21beba588640 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Pathways and Sites of Regulation
+*   Key Organ Systems and Hormones
+*   General Paradigms of Pathway Control: Covalent, Allosteric, and Acceptor Control
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

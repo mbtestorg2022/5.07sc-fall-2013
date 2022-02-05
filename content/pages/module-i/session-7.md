@@ -11,7 +11,27 @@ uid: ee6a5544-2c1e-2ee9-3686-bd979c6d5634
 Lecture Topics
 --------------
 
-| ![Session_7.jpg]({{< resource_file 1bffe3ed-6c9f-7c52-8778-92b1e780d4a6 >}}) |  {{< br >}}{{< br >}} *   Phosphorylation _in vivo_{{< br >}}*   Phosphate Chemistry{{< br >}}*   ATP{{< br >}}*   Mechanism of Phosphoryl Transfer with ATP{{< br >}}*   Use of ATP _in vivo_{{< br >}}*   ATP as the Energy Currency of the Cell {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_7.jpg]({{< resource_file 1bffe3ed-6c9f-7c52-8778-92b1e780d4a6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Phosphorylation _in vivo_
+*   Phosphate Chemistry
+*   ATP
+*   Mechanism of Phosphoryl Transfer with ATP
+*   Use of ATP _in vivo_
+*   ATP as the Energy Currency of the Cell
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

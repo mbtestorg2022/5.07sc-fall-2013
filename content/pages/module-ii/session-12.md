@@ -11,7 +11,25 @@ uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
 Lecture Topics
 --------------
 
-| ![Session_13.jpg]({{< resource_file 3b132715-1d43-c1f5-03ff-635654882251 >}}) |  {{< br >}}{{< br >}} *   The Role of Electron Transport to Generate Proton Gradients{{< br >}}*   Mobile e⊖ Carriers{{< br >}}*   Integral Membrane Proteins as Electron Conduits{{< br >}}*   Thermodynamics of ATP Synthesis {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_13.jpg]({{< resource_file 3b132715-1d43-c1f5-03ff-635654882251 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   The Role of Electron Transport to Generate Proton Gradients
+*   Mobile e⊖ Carriers
+*   Integral Membrane Proteins as Electron Conduits
+*   Thermodynamics of ATP Synthesis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

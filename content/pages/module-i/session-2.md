@@ -11,7 +11,25 @@ uid: 784e7357-9d3b-ba4b-07bb-7259086a7456
 Lecture Topics
 --------------
 
-| ![Session_2.jpg]({{< resource_file e99add29-c81d-1a9e-bce2-e18c580a7fcd >}}) |  {{< br >}}{{< br >}} *   Peptide Bond Formation{{< br >}}*   Hierarchy in Protein Structure with Hemoglobin(Hb) as an Example{{< br >}}*   How we get from Primary to Secondary Structures{{< br >}}*   Tertiary and Quaternary Structures {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_2.jpg]({{< resource_file e99add29-c81d-1a9e-bce2-e18c580a7fcd >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Peptide Bond Formation
+*   Hierarchy in Protein Structure with Hemoglobin(Hb) as an Example
+*   How we get from Primary to Secondary Structures
+*   Tertiary and Quaternary Structures
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

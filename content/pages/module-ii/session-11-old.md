@@ -11,7 +11,24 @@ uid: ce1d0114-f148-eebf-3aee-2e3dc8873cef
 Lecture Topics
 --------------
 
-| ![Session_11.jpg]({{< resource_file 89b1af97-939e-4aa3-d9c9-25b543d03f8d >}}) |  {{< br >}}{{< br >}} *   A Radiolabeled Atom in a TCA Cycle Intermediate Sometimes Does Chemically Unexpected Things{{< br >}}*   Studies of the TCA Cycle Enzymes Aconitase and Citrate Synthase Helped Resolve This Vexing Issue{{< br >}}*   Examination of the details of the TCA Cycle to See How non-TCA Cycle Intermediates Flow in to Sustain H {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_11.jpg]({{< resource_file 89b1af97-939e-4aa3-d9c9-25b543d03f8d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   A Radiolabeled Atom in a TCA Cycle Intermediate Sometimes Does Chemically Unexpected Things
+*   Studies of the TCA Cycle Enzymes Aconitase and Citrate Synthase Helped Resolve This Vexing Issue
+*   Examination of the details of the TCA Cycle to See How non-TCA Cycle Intermediates Flow in to Sustain H
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

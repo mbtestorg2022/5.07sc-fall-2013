@@ -11,7 +11,25 @@ uid: 816ff9e8-5bd5-83d2-afa4-8dda720d2220
 Lecture Topics
 --------------
 
-| ![Session_18.jpg]({{< resource_file 1c888633-1127-8107-8e73-6c43e93174bc >}}) |  {{< br >}}{{< br >}} *   Ketone Body Facts{{< br >}}*   Ketone Body Formation{{< br >}}*   Ketone Body Utilization{{< br >}}*   Diabetes Scenario (Starvation) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Session_18.jpg]({{< resource_file 1c888633-1127-8107-8e73-6c43e93174bc >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Ketone Body Facts
+*   Ketone Body Formation
+*   Ketone Body Utilization
+*   Diabetes Scenario (Starvation)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------
