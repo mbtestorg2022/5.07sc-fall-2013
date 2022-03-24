@@ -44,6 +44,6 @@ This video introduced the process of lipid catabolism, including the many roles 
 
 {{< resource 16a2f0b4-fb0c-fcf3-45c3-b3b1f2d505bc >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 17–18 (PDF)]({{< baseurl >}}/resources/sb_session14)
+*   [Storyboards 17–18 (PDF)]({{< baseurl >}}/resources/sb_session14)
 
 « [Previous]({{< baseurl >}}/pages/module-ii/session-13) | [Next]({{< baseurl >}}/pages/module-ii/session-15) »

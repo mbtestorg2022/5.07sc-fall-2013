@@ -58,8 +58,8 @@ This video by Professor John Essigmann provides an introduction to carbohydrate 
 
 {{< resource c84cc3dd-d8b9-cbb9-5e5c-3de34000098d >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboard 1 (PDF)]({{< baseurl >}}/resources/sb_session8)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Metabolic Chart (PDF)]({{< baseurl >}}/resources/je_metabolic_chart_session8)
+*   [Storyboard 1 (PDF)]({{< baseurl >}}/resources/sb_session8)
+*   [Metabolic Chart (PDF)]({{< baseurl >}}/resources/je_metabolic_chart_session8)
 *   [Abbreviations List (PDF)]({{< baseurl >}}/resources/5_07sc_abbreviations)
 
 Problem Set & Solutions

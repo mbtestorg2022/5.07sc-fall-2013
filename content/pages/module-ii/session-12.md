@@ -53,7 +53,7 @@ In this video, Professor Essigmann returns to the topic of respiration. He detai
 
 {{< resource 276387d4-6109-b379-6847-fee611b9add5 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 12–13 (PDF)]({{< baseurl >}}/resources/sb_session12)
+*   [Storyboards 12–13 (PDF)]({{< baseurl >}}/resources/sb_session12)
 
 Problem Set & Solutions
 -----------------------

@@ -44,7 +44,7 @@ In this video, Professor Essigmann explores ketone bodies – what they are, how
 
 {{< resource ced22d92-3520-ecfa-3d57-3d0b9b153a8f >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 23–24 (PDF)]({{< baseurl >}}/resources/sb_session16)
+*   [Storyboards 23–24 (PDF)]({{< baseurl >}}/resources/sb_session16)
 
 Bonus Video 1: The Science Behind Type II Diabetes
 --------------------------------------------------

@@ -44,6 +44,6 @@ This first of two videos on carbohydrate biosynthesis focuses on glycogen synthe
 
 {{< resource 5acc6c98-b7ed-a06f-089f-56e4848a9d9d >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 29–30 (PDF)]({{< baseurl >}}/resources/sb_session18)
+*   [Storyboards 29–30 (PDF)]({{< baseurl >}}/resources/sb_session18)
 
 « [Previous]({{< baseurl >}}/pages/module-iii/session-17) | [Next]({{< baseurl >}}/pages/module-iii/session-19) »

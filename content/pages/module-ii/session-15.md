@@ -42,7 +42,7 @@ Professor Essigmann explores several special cases in fatty acid metabolism in t
 
 {{< resource 1853469c-23d1-2f64-b869-95c42032c7ce >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 19–22 (PDF)]({{< baseurl >}}/resources/sb_session15)
+*   [Storyboards 19–22 (PDF)]({{< baseurl >}}/resources/sb_session15)
 
 Problem Set & Solutions
 -----------------------

@@ -45,6 +45,6 @@ In this final video, Professor Essigmann considers cell to organ and organ to or
 
 {{< resource 10fa8571-53e6-023f-1f83-fbfa6d827eb0 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 36–39: Regulation of Metabolism (PDF)]({{< baseurl >}}/resources/sb_session21)
+*   [Storyboards 36–39: Regulation of Metabolism (PDF)]({{< baseurl >}}/resources/sb_session21)
 
 « [Previous]({{< baseurl >}}/pages/module-iii/session-20) | [Next]({{< baseurl >}}/pages/resource-index) »

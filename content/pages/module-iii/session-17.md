@@ -49,6 +49,6 @@ This video introduces anabolism, the phase of metabolism in which complex molecu
 
 {{< resource 70e3fb67-412e-0ddb-e51b-b397c7cfefea >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 25–28 (PDF)]({{< baseurl >}}/resources/sb_session17)
+*   [Storyboards 25–28 (PDF)]({{< baseurl >}}/resources/sb_session17)
 
 « [Previous]({{< baseurl >}}/pages/module-iii) | [Next]({{< baseurl >}}/pages/module-iii/session-18) »

@@ -43,6 +43,6 @@ In this video, Professor Essigmann reviews the Pentose Phosphate Pathway (PPP). 
 
 {{< resource 8d17f20b-9849-45d2-34a2-9af8af813072 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 33–35 (PDF)]({{< baseurl >}}/resources/sb_session20)
+*   [Storyboards 33–35 (PDF)]({{< baseurl >}}/resources/sb_session20)
 
 « [Previous]({{< baseurl >}}/pages/module-iii/session-19) | [Next]({{< baseurl >}}/pages/module-iii/session-21) »

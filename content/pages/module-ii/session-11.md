@@ -45,6 +45,6 @@ It is important to maintain redox neutrality in the cytoplasm of mammalian cells
 
 {{< resource f4f0153f-8655-9330-ea50-ac305a84fac7 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboard 10 (PDF)]({{< baseurl >}}/resources/sb_session11)
+*   [Storyboard 10 (PDF)]({{< baseurl >}}/resources/sb_session11)
 
 « [Previous]({{< baseurl >}}/pages/module-ii/session-10) | [Next]({{< baseurl >}}/pages/module-ii/session-12) »

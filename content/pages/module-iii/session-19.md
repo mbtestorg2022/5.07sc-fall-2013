@@ -44,7 +44,7 @@ This video focuses on gluconeogenesis (GNG) -- the synthesis of glucose from non
 
 {{< resource 73bc58e1-a787-e881-7964-38549157579b >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 31–32 (PDF)]({{< baseurl >}}/resources/sb_session19)
+*   [Storyboards 31–32 (PDF)]({{< baseurl >}}/resources/sb_session19)
 
 Problem Set & Solutions
 -----------------------

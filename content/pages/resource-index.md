@@ -410,9 +410,9 @@ PROBLEM SOLVING VIDEOS
 
 [Overview of Glycolysis (PDF - 1.1MB)]({{< baseurl >}}/resources/mit5_07scf13_lec14)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboard 1 (PDF)]({{< baseurl >}}/resources/sb_session8)
+[Storyboard 1 (PDF)]({{< baseurl >}}/resources/sb_session8)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Metabolic Chart (PDF)]({{< baseurl >}}/resources/je_metabolic_chart_session8)
+[Metabolic Chart (PDF)]({{< baseurl >}}/resources/je_metabolic_chart_session8)
 
 [Abbreviations List (PDF)]({{< baseurl >}}/resources/5_07sc_abbreviations)
 
@@ -452,9 +452,9 @@ PROBLEM SOLVING VIDEOS
 
 [Endings to Glycolysis (PDF - 1.2MB)]({{< baseurl >}}/resources/mit5_07scf13_lec15_16)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 2-7 (PDF)]({{< baseurl >}}/resources/sb_session9)
+[Storyboards 2-7 (PDF)]({{< baseurl >}}/resources/sb_session9)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pyruvate Dehydrogenase Slides (PDF)]({{< baseurl >}}/resources/slides_for_john_session_9_10)
+[Pyruvate Dehydrogenase Slides (PDF)]({{< baseurl >}}/resources/slides_for_john_session_9_10)
 
 
 {{< tdclose >}}
@@ -484,7 +484,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 7-9, 11 (PDF)]({{< baseurl >}}/resources/sb_session10)
+[Storyboards 7-9, 11 (PDF)]({{< baseurl >}}/resources/sb_session10)
 
 
 {{< tdclose >}}
@@ -520,7 +520,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboard 10 (PDF)]({{< baseurl >}}/resources/sb_session11)
+[Storyboard 10 (PDF)]({{< baseurl >}}/resources/sb_session11)
 
 
 {{< tdclose >}}
@@ -550,7 +550,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 12-13 (PDF)]({{< baseurl >}}/resources/sb_session12)
+[Storyboards 12-13 (PDF)]({{< baseurl >}}/resources/sb_session12)
 
 
 {{< tdclose >}}
@@ -588,7 +588,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 14-16 (PDF)]({{< baseurl >}}/resources/sb_session13)
+[Storyboards 14-16 (PDF)]({{< baseurl >}}/resources/sb_session13)
 
 
 {{< tdclose >}}
@@ -618,7 +618,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 17-18 (PDF)]({{< baseurl >}}/resources/sb_session14)
+[Storyboards 17-18 (PDF)]({{< baseurl >}}/resources/sb_session14)
 
 
 {{< tdclose >}}
@@ -644,7 +644,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 19-22 (PDF)]({{< baseurl >}}/resources/sb_session15)
+[Storyboards 19-22 (PDF)]({{< baseurl >}}/resources/sb_session15)
 
 
 {{< tdclose >}}
@@ -684,7 +684,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 23-24 (PDF)]({{< baseurl >}}/resources/sb_session16)
+[Storyboards 23-24 (PDF)]({{< baseurl >}}/resources/sb_session16)
 
 
 {{< tdclose >}}
@@ -742,7 +742,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 25-28 (PDF)]({{< baseurl >}}/resources/sb_session17)
+[Storyboards 25-28 (PDF)]({{< baseurl >}}/resources/sb_session17)
 
 
 {{< tdclose >}}
@@ -768,7 +768,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 29-30 (PDF)]({{< baseurl >}}/resources/sb_session18)
+[Storyboards 29-30 (PDF)]({{< baseurl >}}/resources/sb_session18)
 
 
 {{< tdclose >}}
@@ -798,7 +798,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 31-32 (PDF)]({{< baseurl >}}/resources/sb_session19)
+[Storyboards 31-32 (PDF)]({{< baseurl >}}/resources/sb_session19)
 
 
 {{< tdclose >}}
@@ -834,7 +834,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 33-35 (PDF)]({{< baseurl >}}/resources/sb_session20)
+[Storyboards 33-35 (PDF)]({{< baseurl >}}/resources/sb_session20)
 
 
 {{< tdclose >}}
@@ -864,7 +864,7 @@ PROBLEM SOLVING VIDEOS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 36-39 (PDF)]({{< baseurl >}}/resources/sb_session21)
+[Storyboards 36-39 (PDF)]({{< baseurl >}}/resources/sb_session21)
 
 
 {{< tdclose >}}

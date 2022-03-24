@@ -45,6 +45,6 @@ The final stages of cell respiration are outlined in this video. Professor Essig
 
 {{< resource f72cd492-2e0c-e70b-3e88-49e4ed270919 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 14–16 (PDF)]({{< baseurl >}}/resources/sb_session13)
+*   [Storyboards 14–16 (PDF)]({{< baseurl >}}/resources/sb_session13)
 
 « [Previous]({{< baseurl >}}/pages/module-ii/session-12) | [Next]({{< baseurl >}}/pages/module-ii/session-14) »

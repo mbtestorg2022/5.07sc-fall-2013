@@ -46,7 +46,7 @@ This video focuses on the TCA Cycle, also called the Krebs Cycle or Citric Acid 
 
 {{< resource 05537d7c-a6cf-3dc2-b407-56eafe04e9fd >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 7–9, 11 (PDF)]({{< baseurl >}}/resources/sb_session10)
+*   [Storyboards 7–9, 11 (PDF)]({{< baseurl >}}/resources/sb_session10)
 
 Problem Set & Solutions
 -----------------------

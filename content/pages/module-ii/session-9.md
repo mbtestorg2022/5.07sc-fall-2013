@@ -54,7 +54,7 @@ Professor Essigmann looks in detail at carbohydrate catabolism leading up to the
 
 {{< resource a6f38f1f-0180-d7de-b8de-358d3d78a4cc >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 2-7 (PDF)]({{< baseurl >}}/resources/sb_session9)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pyruvate Dehydrogenase Slides (PDF)]({{< baseurl >}}/resources/slides_for_john_session_9_10)
+*   [Storyboards 2-7 (PDF)]({{< baseurl >}}/resources/sb_session9)
+*   [Pyruvate Dehydrogenase Slides (PDF)]({{< baseurl >}}/resources/slides_for_john_session_9_10)
 
 « [Previous]({{< baseurl >}}/pages/module-ii/session-8) | [Next]({{< baseurl >}}/pages/module-ii/session-10) »
