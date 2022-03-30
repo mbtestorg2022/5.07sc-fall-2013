@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2f64e3f6-bd9c-a4c8-785a-b31136b28972
 resourcetype: Image
 title: Fedeles_cropped.jpg
 uid: 9c30b087-4f8b-f660-4479-7771042b3e9c

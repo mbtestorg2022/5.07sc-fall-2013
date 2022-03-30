@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2d6e92b2-0a5d-3994-8d83-539f5b3a872a
 resourcetype: Image
 title: classroom_1-compressor.jpg
 uid: d139629b-06db-aef3-3b1a-bc3328af745b

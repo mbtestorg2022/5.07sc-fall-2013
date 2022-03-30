@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ce1d0114-f148-eebf-3aee-2e3dc8873cef
 resourcetype: Image
 title: Session_11.jpg
 uid: 89b1af97-939e-4aa3-d9c9-25b543d03f8d

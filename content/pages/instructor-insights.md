@@ -64,7 +64,7 @@ Curriculum Information
 
 ### Prerequisites
 
-_[5.12 Organic Chemistry I](/courses/5-12-organic-chemistry-i-spring-2005/)_
+_[5.12 Organic Chemistry I](/courses/5-12-organic-chemistry-i-spring-2005)_
 
 ### Requirements Satisfied
 

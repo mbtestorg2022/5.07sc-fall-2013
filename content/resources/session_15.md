@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 70b2da5f-1582-4ec1-7560-6e34a1ecc82f
 resourcetype: Image
 title: Session_15.jpg
 uid: 36ad8d02-56e1-c3cb-9a6e-3c1f4b644e1a

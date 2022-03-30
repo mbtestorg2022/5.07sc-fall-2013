@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2d6e92b2-0a5d-3994-8d83-539f5b3a872a
 resourcetype: Image
 title: placeholder.jpg
 uid: ef81aec9-b192-ebec-264d-181d6a311b42

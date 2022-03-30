@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 816ff9e8-5bd5-83d2-afa4-8dda720d2220
 resourcetype: Image
 title: Session_18.jpg
 uid: 1c888633-1127-8107-8e73-6c43e93174bc
